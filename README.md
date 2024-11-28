@@ -1,2 +1,2 @@
 # git_test
-git_test repository ^-^
+git_test repository
